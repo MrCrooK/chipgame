@@ -1,0 +1,7 @@
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW PWPROTECTID:eLyzyGaLyW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile /home/bitrix/ext_www/chipgame.ru/admin/.htpasswd
+Require user mrcrook
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE eLyzyGaLyW:PWPROTECTID
+

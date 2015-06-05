@@ -1,0 +1,15 @@
+﻿User-agent: *
+Disallow: /detail.php
+Disallow: /obrabotchik.php
+Disallow: /search.php
+Disallow: /templates/
+Disallow: /admin/
+Disallow: /lexer/
+Disallow: /plugins/
+Disallow: /templates_c/
+Disallow: /cache/
+Disallow: /images/
+Disallow: /libs/
+Disallow: /c55bf3fc219b9610c2b8abde2d8ed171/
+Disallow: /404/
+Sitemap: http://chipgame.ru/sitemap.xml
