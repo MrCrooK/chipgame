@@ -49,17 +49,17 @@ foreach(pq('div.video-item') as $item) {
 		// Если нет детального описания скрываем видео
 		/*if(strlen($text)<10) $show = '0';*/
 		
-		if(add_elem($img, $name, $url, $title, $description, $keywords, $video, $text, $duration, $upload, $show))	echo $arID." запись успешно добавлена.
+		if(add_elem($img, $name, $url, $title, $description, $keywords, $video, $text, $duration, $upload, $show))	echo date(DATE_RFC2822)." ".$arID." запись успешно добавлена.
 ";
-		else echo $arID." ошибка добавления записи.
+		else echo date(DATE_RFC2822)." ".$arID." ошибка добавления записи.
 ";
 		return true;
 	}
 	$i++;
 }
-if($i) echo "Все записи из списка уже добавлены
+if($i) echo date(DATE_RFC2822)." Все записи из списка уже добавлены
 "; 
-else echo "Нет записей
+else echo date(DATE_RFC2822)." Нет записей
 ";
 ?>
 

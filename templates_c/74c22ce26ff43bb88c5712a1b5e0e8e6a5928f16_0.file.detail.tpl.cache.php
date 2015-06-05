@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.24, created on 2015-06-05 08:55:33
+<?php /* Smarty version 3.1.24, created on 2015-06-05 16:21:58
          compiled from "./templates/detail.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:48133292557139d5783992_37628499%%*/
+/*%%SmartyHeaderCode:12790753315571a276ca1332_42755605%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -13,23 +13,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '48133292557139d5783992_37628499',
+  'nocache_hash' => '12790753315571a276ca1332_42755605',
   'variables' => 
   array (
     'item' => 0,
   ),
   'has_nocache_code' => true,
   'version' => '3.1.24',
-  'unifunc' => 'content_557139d57a7bd0_76136349',
+  'unifunc' => 'content_5571a276cc4f04_22950761',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_557139d57a7bd0_76136349')) {
-function content_557139d57a7bd0_76136349 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_5571a276cc4f04_22950761')) {
+function content_5571a276cc4f04_22950761 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '48133292557139d5783992_37628499';
-echo '/*%%SmartyNocache:48133292557139d5783992_37628499%%*/<?php echo $_smarty_tpl->getSubTemplate ("header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 1, $_smarty_tpl->cache_lifetime, array(\'title\'=>((string)$_smarty_tpl->tpl_vars[\'item\']->value[\'TITLE\'])." | ChipGame",\'description\'=>((string)$_smarty_tpl->tpl_vars[\'item\']->value[\'DESCRIPTION\']),\'keywords\'=>((string)$_smarty_tpl->tpl_vars[\'item\']->value[\'KEYWORDS\'])), 0);
+$_smarty_tpl->properties['nocache_hash'] = '12790753315571a276ca1332_42755605';
+echo '/*%%SmartyNocache:12790753315571a276ca1332_42755605%%*/<?php echo $_smarty_tpl->getSubTemplate ("header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 1, $_smarty_tpl->cache_lifetime, array(\'title\'=>((string)$_smarty_tpl->tpl_vars[\'item\']->value[\'TITLE\'])." | ChipGame",\'description\'=>((string)$_smarty_tpl->tpl_vars[\'item\']->value[\'DESCRIPTION\']),\'keywords\'=>((string)$_smarty_tpl->tpl_vars[\'item\']->value[\'KEYWORDS\'])), 0);
 ?>
-/*/%%SmartyNocache:48133292557139d5783992_37628499%%*/';?>
+/*/%%SmartyNocache:12790753315571a276ca1332_42755605%%*/';?>
 
 			<h1><?php echo $_smarty_tpl->tpl_vars['item']->value['NAME'];?>
 </h1>

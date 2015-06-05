@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:1756297376557140d9b4ce96_82208414%%*/
+/*%%SmartyHeaderCode:17134823135571a87859a7b0_66209872%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1756297376557140d9b4ce96_82208414',
+  'nocache_hash' => '17134823135571a87859a7b0_66209872',
   'tpl_function' => 
   array (
   ),
@@ -34,12 +34,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_557140d9c2cb62_36095761',
+  'unifunc' => 'content_5571a8785d5038_16319545',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_557140d9c2cb62_36095761')) {
-function content_557140d9c2cb62_36095761 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_5571a8785d5038_16319545')) {
+function content_5571a8785d5038_16319545 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
@@ -69,7 +69,7 @@ function content_557140d9c2cb62_36095761 ($_smarty_tpl) {
     <div id="no-size-content">
 <script>jQuery(function () {preload('ID')});</script>
 	<a href="/dtHe5VShVC4.php" class="box">
-		<div class="countnum">0 просмотров</div>
+		<div class="countnum">1 просмотр</div>
 		<img src="/templates/images/nopgoto.png" data-src="/images/fe68d969012ccf0f3d23dc6d47ca46c9.jpg" alt="LiveLeak - Authorities dispatch escavator to clear illegal parking" width="100%">
 		<h2>LiveLeak - Authorities dispatch escavator to clear illegal parking</h2>
 	</a>
@@ -99,7 +99,7 @@ function content_557140d9c2cb62_36095761 ($_smarty_tpl) {
 		<h2>Как сбили Боинг над Украиной | Boeing MH-17 Downed Over Ukraine: What Really Happened</h2>
 	</a>
 	<a href="/58JG6z4e5zs.php" class="box">
-		<div class="countnum">0 просмотров</div>
+		<div class="countnum">1 просмотр</div>
 		<img src="/templates/images/nopgoto.png" data-src="/images/a0952814252a504135c2aaf2196a99f7.jpg" alt="Дикая автоледи в Перми" width="100%">
 		<h2>Дикая автоледи в Перми</h2>
 	</a>

@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:205922276455706839a75da9_01314700%%*/
+/*%%SmartyHeaderCode:10258369805571814243efd3_11539471%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '205922276455706839a75da9_01314700',
+  'nocache_hash' => '10258369805571814243efd3_11539471',
   'tpl_function' => 
   array (
   ),
@@ -34,12 +34,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_55706839accf99_12976744',
+  'unifunc' => 'content_5571814249c244_27239198',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_55706839accf99_12976744')) {
-function content_55706839accf99_12976744 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_5571814249c244_27239198')) {
+function content_5571814249c244_27239198 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
@@ -69,6 +69,15 @@ function content_55706839accf99_12976744 ($_smarty_tpl) {
     <div id="no-size-content">
 	<h1>Карта сайта</h1>
 	<div class="content">
+				<a href="/dtHe5VShVC4.php">LiveLeak - Authorities dispatch escavator to clear illegal parking</a><br>
+				<a href="/Lnn2rJpjar4.php">Fallout 4 - Official Trailer (PEGI)</a><br>
+				<a href="/vNyTVOo7nTo.php">Недостающие кусочки видео</a><br>
+				<a href="/OT40I6blyO8.php">России больше нет</a><br>
+				<a href="/O8dNm4RZp50.php">Дебютный трейлер Fallout 4</a><br>
+				<a href="/uvxbrdm0wz0.php">Как сбили Боинг над Украиной | Boeing MH-17 Downed Over Ukraine: What Really Happened</a><br>
+				<a href="/58JG6z4e5zs.php">Дикая автоледи в Перми</a><br>
+				<a href="/260xS_KiVyE.php">Святая, что хоронит россиян</a><br>
+				<a href="/i7G1uAkHbrA.php">ТОП5 Лучших видео на YOUTUBE за всё время</a><br>
 				<a href="/EHS10K2oVXg.php">Технарь часть №4</a><br>
 				<a href="/Wz_frbnyuiQ.php">This is Хорошо - Австралийская дискотека. ／/＼｡｡／\＼</a><br>
 				<a href="/ZhRSM8IcrbE.php">Лобовое столкновение велосипедистов - ДТП 01.06.2015</a><br>

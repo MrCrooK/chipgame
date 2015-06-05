@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:48133292557139d5783992_37628499%%*/
+/*%%SmartyHeaderCode:12790753315571a276ca1332_42755605%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -17,7 +17,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '48133292557139d5783992_37628499',
+  'nocache_hash' => '12790753315571a276ca1332_42755605',
   'tpl_function' => 
   array (
   ),
@@ -27,24 +27,24 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => true,
   'version' => '3.1.24',
-  'unifunc' => 'content_557139d57b3f59_93301496',
+  'unifunc' => 'content_5571a276cd1629_67165163',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_557139d57b3f59_93301496')) {
-function content_557139d57b3f59_93301496 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_5571a276cd1629_67165163')) {
+function content_5571a276cd1629_67165163 ($_smarty_tpl) {
 
 echo $_smarty_tpl->getSubTemplate ("header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 1, $_smarty_tpl->cache_lifetime, array('title'=>((string)$_smarty_tpl->tpl_vars['item']->value['TITLE'])." | ChipGame",'description'=>((string)$_smarty_tpl->tpl_vars['item']->value['DESCRIPTION']),'keywords'=>((string)$_smarty_tpl->tpl_vars['item']->value['KEYWORDS'])), 0);
 ?>
 
-			<h1>Furious 7 - Official Trailer (HD)</h1>
+			<h1>КТО ТАКИЕ ИВАНГАЙ И ЛОЛОЛОШКА</h1>
 			<div class="content" itemscope itemtype="http://schema.org/VideoObject">
 				<div style="display: none">		
-				<a style="display: none" itemprop="url" href="http://chipgame.ru/Skpu5HaVkOc.php" ><h1 itemprop="name">Furious 7 - Official Trailer (HD)</h1></a>
+				<a style="display: none" itemprop="url" href="http://chipgame.ru/AvOVQlkXygA.php" ><h1 itemprop="name">КТО ТАКИЕ ИВАНГАЙ И ЛОЛОЛОШКА</h1></a>
 				<meta itemprop="duration" content="">
 				<meta itemprop="isFamilyFriendly" content="true">
 				<span itemprop="uploadDate">0000-00-00 00:00:00</span>
-				<span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"><img itemprop="contentUrl" src="http://chipgame.ru/images/ccb1d36c65db8bbc6a9bfce04a1b6052.jpg" ><meta itemprop="width" content="331"><meta itemprop="height" content="180"></span>
+				<span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"><img itemprop="contentUrl" src="http://chipgame.ru/images/996a045562faf993d5d88d641182a09b.jpg" ><meta itemprop="width" content="331"><meta itemprop="height" content="180"></span>
 				</div>
 	
 				<iframe width="960" height="540" src="https://www.youtube.com/embed/?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
