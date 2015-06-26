@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:1943614056558d1a118ba847_67090919%%*/
+/*%%SmartyHeaderCode:566121325558d1bc70eba10_15757572%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1943614056558d1a118ba847_67090919',
+  'nocache_hash' => '566121325558d1bc70eba10_15757572',
   'tpl_function' => 
   array (
   ),
@@ -23,20 +23,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_558d1a118c39e4_59299964',
+  'unifunc' => 'content_558d1bc70f52b2_74393125',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_558d1a118c39e4_59299964')) {
-function content_558d1a118c39e4_59299964 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558d1bc70f52b2_74393125')) {
+function content_558d1bc70f52b2_74393125 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
-  <title>&quot;Я дружил с Путиным&quot; | ChipGame</title>
-  <meta name="description" content="Контрастный душ от человека, который дружил с Путиным.">
-  <meta name="keywords" content="владимир путин, украина, донбасс, россия, анатолий шарий, контрастный душ, Vladimir Putin (Politician), интервью, война, сепаратизм, днр, войска, армия">
+  <title> | ChipGame</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
   <script src="http://code.jquery.com/jquery-latest.js"></script>
   <script src="/templates/script.js" type="text/javascript"></script>
   <link href="http://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet" type="text/css">

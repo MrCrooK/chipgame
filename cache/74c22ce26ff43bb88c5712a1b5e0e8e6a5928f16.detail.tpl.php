@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:1326078035558d1a11888e67_40477407%%*/
+/*%%SmartyHeaderCode:720110587558d1bc70b55b1_77108802%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -17,7 +17,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1326078035558d1a11888e67_40477407',
+  'nocache_hash' => '720110587558d1bc70b55b1_77108802',
   'tpl_function' => 
   array (
   ),
@@ -27,28 +27,28 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => true,
   'version' => '3.1.24',
-  'unifunc' => 'content_558d1a118b7490_89461182',
+  'unifunc' => 'content_558d1bc70e81c9_91875547',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_558d1a118b7490_89461182')) {
-function content_558d1a118b7490_89461182 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558d1bc70e81c9_91875547')) {
+function content_558d1bc70e81c9_91875547 ($_smarty_tpl) {
 
 echo $_smarty_tpl->getSubTemplate ("header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 1, $_smarty_tpl->cache_lifetime, array('title'=>((string)$_smarty_tpl->tpl_vars['item']->value['TITLE'])." | ChipGame",'description'=>((string)$_smarty_tpl->tpl_vars['item']->value['DESCRIPTION']),'keywords'=>((string)$_smarty_tpl->tpl_vars['item']->value['KEYWORDS'])), 0);
 ?>
 
-			<h1>&quot;Я дружил с Путиным&quot;</h1>
+			<h1>Симулятор Макдональдса - ФастФуд Секта - №2</h1>
 			<div class="content" itemscope itemtype="http://schema.org/VideoObject">
 				<div style="display: none">		
-				<a style="display: none" itemprop="url" href="http://chipgame.ru/jCudg3I76Oc.php" ><h1 itemprop="name">&quot;Я дружил с Путиным&quot;</h1></a>
-				<meta itemprop="duration" content="PT12M7S">
+				<a style="display: none" itemprop="url" href="http://chipgame.ru/wkumQpODUNU.php" ><h1 itemprop="name">Симулятор Макдональдса - ФастФуд Секта - №2</h1></a>
+				<meta itemprop="duration" content="">
 				<meta itemprop="isFamilyFriendly" content="true">
-				<span itemprop="uploadDate">2015-06-16</span>
-				<span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"><img itemprop="contentUrl" src="http://chipgame.ru/images/3aaa00bf804049798165a7f05476ea57.jpg" ><meta itemprop="width" content="331"><meta itemprop="height" content="180"></span>
+				<span itemprop="uploadDate">0000-00-00 00:00:00</span>
+				<span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"><img itemprop="contentUrl" src="http://chipgame.ru/images/5e390497ebccf596c5d5a9fc9bc94673.jpg" ><meta itemprop="width" content="331"><meta itemprop="height" content="180"></span>
 				</div>
 	
-				<iframe width="960" height="540" src="https://www.youtube.com/embed/jCudg3I76Oc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-				<p itemprop="description">Контрастный душ от человека, который дружил с Путиным.</p>
+				<iframe width="960" height="540" src="https://www.youtube.com/embed/?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+				<p itemprop="description"></p>
 				 
 				<!-- Put this script tag to the <head> of your page -->
 				<script type="text/javascript" src="//vk.com/js/api/openapi.js?115"></script>
