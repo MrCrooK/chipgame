@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:67609593955719e54b0bad3_42214009%%*/
+/*%%SmartyHeaderCode:303053141558ceea8aafae5_90886909%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -13,7 +13,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '3886f3f090f29dcb8617db0c28842ce9b73e2a99' => 
     array (
       0 => './templates/header.tpl',
-      1 => 1433231115,
+      1 => 1435230001,
       2 => 'file',
     ),
     '33182f7e40d06ae680f04a70e6bb3f19d5a196cb' => 
@@ -23,18 +23,18 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '67609593955719e54b0bad3_42214009',
+  'nocache_hash' => '303053141558ceea8aafae5_90886909',
   'tpl_function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_55719e54b2d7c0_87611250',
+  'unifunc' => 'content_558ceea8ae2fb4_01078901',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_55719e54b2d7c0_87611250')) {
-function content_55719e54b2d7c0_87611250 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558ceea8ae2fb4_01078901')) {
+function content_558ceea8ae2fb4_01078901 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
@@ -62,6 +62,17 @@ function content_55719e54b2d7c0_87611250 ($_smarty_tpl) {
     <div class="hede-menu"></div>
     <div class="hede-menu"></div>
     <div id="no-size-content">
+	<div style="margin: 0 auto">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- ChipGameRU -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-3579954790140386"
+		 data-ad-slot="6773261157"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	</div>
 <script src="404/js/svg.js"></script>
 <script src="404/js/perlin-noise-simplex.js"></script>
 <div id="notfound"></div>

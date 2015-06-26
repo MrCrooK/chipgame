@@ -27,6 +27,13 @@ foreach(pq('div.video-item') as $item) {
 		if(create_thumbnail($metaItems["og:image"], "/home/bitrix/ext_www/chipgame.ru/images/".$ImgName.".jpg"))
 			$img = "/images/".$ImgName.".jpg";
 		
+		if(!$text) {
+			$generate = file_get_contents("http://seo-builder.ru/api/synonym/?auth_mail=crook@inbox.ru&auth_key=829B0ED4F9A2DAC15C2AD63735F120A5&type=random&base=1,2,3&morphology=1&text=".$metaItems["title"]);
+			$arResults = json_decode($generate);
+			$text = $arResults[0];
+			$addText = " Описание сгенерировано автоматически";
+		}
+		
 		$img = $img;
 		$name = mysql_real_escape_string(htmlspecialchars(strip_tags($metaItems["title"])));
 		$url = '/'.$arID.'.php';
@@ -49,7 +56,7 @@ foreach(pq('div.video-item') as $item) {
 		// Если нет детального описания скрываем видео
 		/*if(strlen($text)<10) $show = '0';*/
 		
-		if(add_elem($img, $name, $url, $title, $description, $keywords, $video, $text, $duration, $upload, $show))	echo date(DATE_RFC2822)." ".$arID." запись успешно добавлена.
+		if(add_elem($img, $name, $url, $title, $description, $keywords, $video, $text, $duration, $upload, $show))	echo date(DATE_RFC2822)." ".$arID." запись успешно добавлена.".$addText."
 ";
 		else echo date(DATE_RFC2822)." ".$arID." ошибка добавления записи.
 ";

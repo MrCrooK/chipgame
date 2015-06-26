@@ -24,3 +24,14 @@
     <div class="hede-menu"></div>
     <div class="hede-menu"></div>
     <div id="no-size-content">
+	<div style="margin: 0 auto">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- ChipGameRU -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-3579954790140386"
+		 data-ad-slot="6773261157"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	</div>

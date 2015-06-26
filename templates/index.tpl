@@ -3,7 +3,7 @@
 {foreach item=item from=$items}
 	<a href="{$item.URL}" class="box">
 		<div class="countnum">{$item.COUNT}</div>
-		<img src="/templates/images/nopgoto.png" data-src="{$item.IMG}" alt="{$item.NAME}" width="100%">
+		<img src="{$item.IMG}" alt="{$item.NAME}" width="100%">
 		<h2>{$item.NAME}</h2>
 	</a>
 {/foreach}

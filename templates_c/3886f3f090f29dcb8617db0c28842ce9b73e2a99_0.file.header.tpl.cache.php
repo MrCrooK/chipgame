@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.24, created on 2015-06-05 16:47:36
+<?php /* Smarty version 3.1.24, created on 2015-06-26 14:25:31
          compiled from "./templates/header.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:351826585571a8785c2281_41488250%%*/
+/*%%SmartyHeaderCode:236248487558d1a8bcddb09_34962000%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,11 +9,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '3886f3f090f29dcb8617db0c28842ce9b73e2a99' => 
     array (
       0 => './templates/header.tpl',
-      1 => 1433231115,
+      1 => 1435230001,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '351826585571a8785c2281_41488250',
+  'nocache_hash' => '236248487558d1a8bcddb09_34962000',
   'variables' => 
   array (
     'title' => 0,
@@ -22,13 +22,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_5571a8785c7359_48609960',
+  'unifunc' => 'content_558d1a8bce7f08_54731863',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_5571a8785c7359_48609960')) {
-function content_5571a8785c7359_48609960 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558d1a8bce7f08_54731863')) {
+function content_558d1a8bce7f08_54731863 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '351826585571a8785c2281_41488250';
+$_smarty_tpl->properties['nocache_hash'] = '236248487558d1a8bcddb09_34962000';
 ?>
 <!DOCTYPE html>
 <html>
@@ -62,6 +62,21 @@ $_smarty_tpl->properties['nocache_hash'] = '351826585571a8785c2281_41488250';
     </div>
     <div class="hede-menu"></div>
     <div class="hede-menu"></div>
-    <div id="no-size-content"><?php }
+    <div id="no-size-content">
+	<div style="margin: 0 auto">
+	<?php echo '<script'; ?>
+ async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"><?php echo '</script'; ?>
+>
+	<!-- ChipGameRU -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-3579954790140386"
+		 data-ad-slot="6773261157"></ins>
+	<?php echo '<script'; ?>
+>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	<?php echo '</script'; ?>
+>
+	</div><?php }
 }
 ?>

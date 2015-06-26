@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.24, created on 2015-06-05 16:47:36
+<?php /* Smarty version 3.1.24, created on 2015-06-26 14:25:31
          compiled from "./templates/index.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:17134823135571a87859a7b0_66209872%%*/
+/*%%SmartyHeaderCode:2078101573558d1a8bca2978_89511569%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,11 +9,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '420f49c48cd1e9b90436b906a58412a8f4fba7bc' => 
     array (
       0 => './templates/index.tpl',
-      1 => 1433241810,
+      1 => 1435294799,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '17134823135571a87859a7b0_66209872',
+  'nocache_hash' => '2078101573558d1a8bca2978_89511569',
   'variables' => 
   array (
     'items' => 0,
@@ -21,13 +21,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_5571a8785bd054_16809852',
+  'unifunc' => 'content_558d1a8bcd5768_84696393',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_5571a8785bd054_16809852')) {
-function content_5571a8785bd054_16809852 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558d1a8bcd5768_84696393')) {
+function content_558d1a8bcd5768_84696393 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '17134823135571a87859a7b0_66209872';
+$_smarty_tpl->properties['nocache_hash'] = '2078101573558d1a8bca2978_89511569';
 echo $_smarty_tpl->getSubTemplate ("header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, $_smarty_tpl->cache_lifetime, array('title'=>"Видео приколы – самое смешное видео онлайн, видео приколы Ютуб | ChipGame",'description'=>"Видео приколы и самое смешное видео на сайте ChipGame! Смотри онлайн популярные видео приколы Ютуб, лучшие подборки и клипы. Приколы – лучший способ поднять настроение. Включайте видео приколы и делитесь впечатлениями с друзьями",'keywords'=>"Приколы, Видео приколы, Самое смешное видео, Видео приколы Ютуб"), 0);
 ?>
 
@@ -49,7 +49,7 @@ $foreach_item_Sav = $_smarty_tpl->tpl_vars['item'];
 " class="box">
 		<div class="countnum"><?php echo $_smarty_tpl->tpl_vars['item']->value['COUNT'];?>
 </div>
-		<img src="/templates/images/nopgoto.png" data-src="<?php echo $_smarty_tpl->tpl_vars['item']->value['IMG'];?>
+		<img src="<?php echo $_smarty_tpl->tpl_vars['item']->value['IMG'];?>
 " alt="<?php echo $_smarty_tpl->tpl_vars['item']->value['NAME'];?>
 " width="100%">
 		<h2><?php echo $_smarty_tpl->tpl_vars['item']->value['NAME'];?>
@@ -60,8 +60,7 @@ $_smarty_tpl->tpl_vars['item'] = $foreach_item_Sav;
 }
 ?>
 <?php echo $_smarty_tpl->getSubTemplate ("footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, $_smarty_tpl->cache_lifetime, array(), 0);
-?>
 
-<?php }
+}
 }
 ?>

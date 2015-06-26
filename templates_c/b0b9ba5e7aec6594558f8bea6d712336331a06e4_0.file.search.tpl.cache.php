@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.24, created on 2015-06-05 13:35:45
+<?php /* Smarty version 3.1.24, created on 2015-06-08 09:44:59
          compiled from "./templates/search.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:75585840755717b816d0747_54394773%%*/
+/*%%SmartyHeaderCode:1619579490557539eb227643_54882023%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -13,16 +13,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '75585840755717b816d0747_54394773',
+  'nocache_hash' => '1619579490557539eb227643_54882023',
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_55717b816e9599_85655475',
+  'unifunc' => 'content_557539eb23ece4_41193217',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_55717b816e9599_85655475')) {
-function content_55717b816e9599_85655475 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_557539eb23ece4_41193217')) {
+function content_557539eb23ece4_41193217 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '75585840755717b816d0747_54394773';
+$_smarty_tpl->properties['nocache_hash'] = '1619579490557539eb227643_54882023';
 echo $_smarty_tpl->getSubTemplate ("header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, $_smarty_tpl->cache_lifetime, array('title'=>"Поиск по сайту | ChipGame",'description'=>"Поиск по сайту | Смотри онлайн популярные видео приколы Ютуб, лучшие подборки и клипы. Приколы – лучший способ поднять настроение. Включайте видео приколы и делитесь впечатлениями с друзьями",'keywords'=>"Поиск, Поиск приколов, Приколы, Видео приколы, Самое смешное видео, Видео приколы Ютуб"), 0);
 ?>
 

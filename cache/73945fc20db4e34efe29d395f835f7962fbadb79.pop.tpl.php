@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:52690199155706832bd3797_62125096%%*/
+/*%%SmartyHeaderCode:1742245054558ce93dc1a0b1_73178779%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -7,13 +7,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '73945fc20db4e34efe29d395f835f7962fbadb79' => 
     array (
       0 => './templates/pop.tpl',
-      1 => 1433241794,
+      1 => 1435295242,
       2 => 'file',
     ),
     '3886f3f090f29dcb8617db0c28842ce9b73e2a99' => 
     array (
       0 => './templates/header.tpl',
-      1 => 1433231115,
+      1 => 1435230001,
       2 => 'file',
     ),
     '33182f7e40d06ae680f04a70e6bb3f19d5a196cb' => 
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '52690199155706832bd3797_62125096',
+  'nocache_hash' => '1742245054558ce93dc1a0b1_73178779',
   'tpl_function' => 
   array (
   ),
@@ -34,12 +34,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_55706832c0fe77_13953407',
+  'unifunc' => 'content_558ce93dc58799_47284119',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_55706832c0fe77_13953407')) {
-function content_55706832c0fe77_13953407 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558ce93dc58799_47284119')) {
+function content_558ce93dc58799_47284119 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
@@ -67,131 +67,142 @@ function content_55706832c0fe77_13953407 ($_smarty_tpl) {
     <div class="hede-menu"></div>
     <div class="hede-menu"></div>
     <div id="no-size-content">
+	<div style="margin: 0 auto">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- ChipGameRU -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-3579954790140386"
+		 data-ad-slot="6773261157"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	</div>
 <script>jQuery(function () {preload('COUNT')});</script>
 	<a href="/ydzKui4GTi0.php" class="box">
-		<div class="countnum">2729 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/11a8987ae377b1b79c861590529cd6cd.jpg" alt="ИГРА ОБО МНЕ | I Wanna Be The EeOneGuy" width="100%">
+		<div class="countnum">2789 просмотров</div>
+		<img src="/images/11a8987ae377b1b79c861590529cd6cd.jpg" alt="ИГРА ОБО МНЕ | I Wanna Be The EeOneGuy" width="100%">
 		<h2>ИГРА ОБО МНЕ | I Wanna Be The EeOneGuy</h2>
 	</a>
 	<a href="/wkumQpODUNU.php" class="box">
-		<div class="countnum">766 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/5e390497ebccf596c5d5a9fc9bc94673.jpg" alt="Симулятор Макдональдса - ФастФуд Секта - №2" width="100%">
+		<div class="countnum">790 просмотров</div>
+		<img src="/images/5e390497ebccf596c5d5a9fc9bc94673.jpg" alt="Симулятор Макдональдса - ФастФуд Секта - №2" width="100%">
 		<h2>Симулятор Макдональдса - ФастФуд Секта - №2</h2>
 	</a>
 	<a href="/OOpDxUeHcI8.php" class="box">
-		<div class="countnum">653 просмотра</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/985e2fd649a1fbb6c8916c7bf211cc23.jpg" alt="PSY - YTMA Video of the Year" width="100%">
+		<div class="countnum">745 просмотров</div>
+		<img src="/images/985e2fd649a1fbb6c8916c7bf211cc23.jpg" alt="PSY - YTMA Video of the Year" width="100%">
 		<h2>PSY - YTMA Video of the Year</h2>
 	</a>
 	<a href="/gp_7eGsJfrU.php" class="box">
-		<div class="countnum">464 просмотра</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/2992d90bd672797609db0fdb13438652.jpg" alt="Soccer Physics - Симулятор Футболиста  - Frost и Snake" width="100%">
+		<div class="countnum">475 просмотров</div>
+		<img src="/images/2992d90bd672797609db0fdb13438652.jpg" alt="Soccer Physics - Симулятор Футболиста  - Frost и Snake" width="100%">
 		<h2>Soccer Physics - Симулятор Футболиста  - Frost и Snake</h2>
 	</a>
 	<a href="/FjgpA0khZnk.php" class="box">
-		<div class="countnum">458 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/df4fc11fe5ecbf8953b7000555536160.jpg" alt="@shannice_em Dj Haus - Lets Get 2gether #shapes" width="100%">
+		<div class="countnum">465 просмотров</div>
+		<img src="/images/df4fc11fe5ecbf8953b7000555536160.jpg" alt="@shannice_em Dj Haus - Lets Get 2gether #shapes" width="100%">
 		<h2>@shannice_em Dj Haus - Lets Get 2gether #shapes</h2>
 	</a>
 	<a href="/I_zn3AcG42k.php" class="box">
-		<div class="countnum">413 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/c8b39d3d02058ccf6a1d93c10b1c27fc.jpg" alt="ДТП (04.09.14 12:46) Москва,Симферопольское ш. 3" width="100%">
+		<div class="countnum">419 просмотров</div>
+		<img src="/images/c8b39d3d02058ccf6a1d93c10b1c27fc.jpg" alt="ДТП (04.09.14 12:46) Москва,Симферопольское ш. 3" width="100%">
 		<h2>ДТП (04.09.14 12:46) Москва,Симферопольское ш. 3</h2>
 	</a>
 	<a href="/11JW3Kt7I24.php" class="box">
-		<div class="countnum">401 просмотр</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/924b131d218ab199f7553ab336baf804.jpg" alt="Пелагея - Победный танец морских котиков! Проект Голос" width="100%">
+		<div class="countnum">408 просмотров</div>
+		<img src="/images/924b131d218ab199f7553ab336baf804.jpg" alt="Пелагея - Победный танец морских котиков! Проект Голос" width="100%">
 		<h2>Пелагея - Победный танец морских котиков! Проект Голос</h2>
 	</a>
 	<a href="/B9WZ9XAPyww.php" class="box">
-		<div class="countnum">399 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/726ddbac57da6b8d9554deef8983e766.jpg" alt="ЛУКОЙЛ «ЭКТО Diesel» «Скала»" width="100%">
+		<div class="countnum">404 просмотра</div>
+		<img src="/images/726ddbac57da6b8d9554deef8983e766.jpg" alt="ЛУКОЙЛ «ЭКТО Diesel» «Скала»" width="100%">
 		<h2>ЛУКОЙЛ «ЭКТО Diesel» «Скала»</h2>
 	</a>
+	<a href="/f3knBt21Bk4.php" class="box">
+		<div class="countnum">388 просмотров</div>
+		<img src="/images/27d9f35805c34d4afdb7952c00d9427b.jpg" alt="Человеку пришла в голову плохая идея потереться членом о гнездо красных муравьёв." width="100%">
+		<h2>Человеку пришла в голову плохая идея потереться членом о гнездо красных муравьёв.</h2>
+	</a>
 	<a href="/QVAb2gOMrUQ.php" class="box">
-		<div class="countnum">372 просмотра</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/b42ffe316fc791bdda2654468122f287.jpg" alt="Five Nights at Freddy's - Фабрика Кирпичей Фроста - №1" width="100%">
+		<div class="countnum">380 просмотров</div>
+		<img src="/images/b42ffe316fc791bdda2654468122f287.jpg" alt="Five Nights at Freddy's - Фабрика Кирпичей Фроста - №1" width="100%">
 		<h2>Five Nights at Freddy's - Фабрика Кирпичей Фроста - №1</h2>
 	</a>
 	<a href="/AvOVQlkXygA.php" class="box">
-		<div class="countnum">360 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/996a045562faf993d5d88d641182a09b.jpg" alt="КТО ТАКИЕ ИВАНГАЙ И ЛОЛОЛОШКА" width="100%">
+		<div class="countnum">379 просмотров</div>
+		<img src="/images/996a045562faf993d5d88d641182a09b.jpg" alt="КТО ТАКИЕ ИВАНГАЙ И ЛОЛОЛОШКА" width="100%">
 		<h2>КТО ТАКИЕ ИВАНГАЙ И ЛОЛОЛОШКА</h2>
 	</a>
 	<a href="/v-hA9tawgTI.php" class="box">
-		<div class="countnum">320 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/292f7ed83483b0756dfd77ee44fd6cd5.jpg" alt="КОГДА ТЫ ЗАИГРАЛСЯ (Rick and Morty Adventures)" width="100%">
+		<div class="countnum">324 просмотра</div>
+		<img src="/images/292f7ed83483b0756dfd77ee44fd6cd5.jpg" alt="КОГДА ТЫ ЗАИГРАЛСЯ (Rick and Morty Adventures)" width="100%">
 		<h2>КОГДА ТЫ ЗАИГРАЛСЯ (Rick and Morty Adventures)</h2>
 	</a>
-	<a href="/RsJiYr5FyAg.php" class="box">
-		<div class="countnum">314 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/6b07754d3f97c438bdda50344ff55cae.jpg" alt="Драка. Стас Барецкий vs Драго" width="100%">
-		<h2>Драка. Стас Барецкий vs Драго</h2>
-	</a>
 	<a href="/8mGjyO_KGgA.php" class="box">
-		<div class="countnum">314 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/370b823e32f030274339c15088750c0b.jpg" alt="БОКСЕР и МЕДСЕСТРА - OctoDad  - Медицинский Переполох!" width="100%">
+		<div class="countnum">322 просмотра</div>
+		<img src="/images/370b823e32f030274339c15088750c0b.jpg" alt="БОКСЕР и МЕДСЕСТРА - OctoDad  - Медицинский Переполох!" width="100%">
 		<h2>БОКСЕР и МЕДСЕСТРА - OctoDad  - Медицинский Переполох!</h2>
 	</a>
+	<a href="/RsJiYr5FyAg.php" class="box">
+		<div class="countnum">321 просмотр</div>
+		<img src="/images/6b07754d3f97c438bdda50344ff55cae.jpg" alt="Драка. Стас Барецкий vs Драго" width="100%">
+		<h2>Драка. Стас Барецкий vs Драго</h2>
+	</a>
 	<a href="/HQas-H9rPIw.php" class="box">
-		<div class="countnum">311 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/e2d2caa784df290a4c9d269eed57ef50.jpg" alt="Blake Lively stars in Gucci Première Eau de Toilette" width="100%">
+		<div class="countnum">318 просмотров</div>
+		<img src="/images/e2d2caa784df290a4c9d269eed57ef50.jpg" alt="Blake Lively stars in Gucci Première Eau de Toilette" width="100%">
 		<h2>Blake Lively stars in Gucci Première Eau de Toilette</h2>
 	</a>
 	<a href="/xfnali5363Y.php" class="box">
-		<div class="countnum">297 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/2c2c249004ec4131b1239810db2f5100.jpg" alt="УПОРОТЫЕ КРИВЛЯНИЯ | Face Rig" width="100%">
+		<div class="countnum">306 просмотров</div>
+		<img src="/images/2c2c249004ec4131b1239810db2f5100.jpg" alt="УПОРОТЫЕ КРИВЛЯНИЯ | Face Rig" width="100%">
 		<h2>УПОРОТЫЕ КРИВЛЯНИЯ | Face Rig</h2>
 	</a>
 	<a href="/obEBnyy49Yo.php" class="box">
-		<div class="countnum">282 просмотра</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/4b1a036d07461414143e45bf0e03b75b.jpg" alt="Смертельно Милая ▲ Макияж На Хэллоуин и Конкурс" width="100%">
+		<div class="countnum">288 просмотров</div>
+		<img src="/images/4b1a036d07461414143e45bf0e03b75b.jpg" alt="Смертельно Милая ▲ Макияж На Хэллоуин и Конкурс" width="100%">
 		<h2>Смертельно Милая ▲ Макияж На Хэллоуин и Конкурс</h2>
 	</a>
 	<a href="/Ro5UoZ74OwA.php" class="box">
-		<div class="countnum">274 просмотра</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/33d6450739efe8aa258c120dc7d02b87.jpg" alt="Vin Diesel ALS Ice Bucket Challenge - &quot;Ice Bucket Challenge&quot;" width="100%">
+		<div class="countnum">279 просмотров</div>
+		<img src="/images/33d6450739efe8aa258c120dc7d02b87.jpg" alt="Vin Diesel ALS Ice Bucket Challenge - &quot;Ice Bucket Challenge&quot;" width="100%">
 		<h2>Vin Diesel ALS Ice Bucket Challenge - &quot;Ice Bucket Challenge&quot;</h2>
 	</a>
 	<a href="/fXOW6kiIyrc.php" class="box">
-		<div class="countnum">269 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/5fca0e55b40d787391de9fd85042f160.jpg" alt="iOS 8 GM - как установить, как откатить, что нового?" width="100%">
+		<div class="countnum">272 просмотра</div>
+		<img src="/images/5fca0e55b40d787391de9fd85042f160.jpg" alt="iOS 8 GM - как установить, как откатить, что нового?" width="100%">
 		<h2>iOS 8 GM - как установить, как откатить, что нового?</h2>
 	</a>
 	<a href="/DC1-swAqSdA.php" class="box">
-		<div class="countnum">257 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/2d78d04b401e425bbb7de9c94b8ff86e.jpg" alt="Барбоскины - 136 серия. Аленький Цветочек (новые серии)" width="100%">
+		<div class="countnum">261 просмотр</div>
+		<img src="/images/2d78d04b401e425bbb7de9c94b8ff86e.jpg" alt="Барбоскины - 136 серия. Аленький Цветочек (новые серии)" width="100%">
 		<h2>Барбоскины - 136 серия. Аленький Цветочек (новые серии)</h2>
 	</a>
 	<a href="/ffVRVl21de0.php" class="box">
-		<div class="countnum">255 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/da4ee7964d5ca443a0ec73b3876fd4f8.jpg" alt="The Forest - САМЫЙ КРУТОЙ ДОМ! (v 0.08)" width="100%">
+		<div class="countnum">259 просмотров</div>
+		<img src="/images/da4ee7964d5ca443a0ec73b3876fd4f8.jpg" alt="The Forest - САМЫЙ КРУТОЙ ДОМ! (v 0.08)" width="100%">
 		<h2>The Forest - САМЫЙ КРУТОЙ ДОМ! (v 0.08)</h2>
 	</a>
 	<a href="/VX_c_LauFyc.php" class="box">
-		<div class="countnum">249 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/86135b53391a475143c24f4f01ed51d9.jpg" alt="Маша и Медведь - Учитель танцев (Серия 46)" width="100%">
+		<div class="countnum">253 просмотра</div>
+		<img src="/images/86135b53391a475143c24f4f01ed51d9.jpg" alt="Маша и Медведь - Учитель танцев (Серия 46)" width="100%">
 		<h2>Маша и Медведь - Учитель танцев (Серия 46)</h2>
 	</a>
+	<a href="/HB_NbDQJl0Y.php" class="box">
+		<div class="countnum">251 просмотр</div>
+		<img src="/images/f3d516a394b096d79dd58f58c94daad1.jpg" alt="НЕЗНАЙКА ИНТЕРСТЕЛЛАР" width="100%">
+		<h2>НЕЗНАЙКА ИНТЕРСТЕЛЛАР</h2>
+	</a>
 	<a href="/WO8GjE3S0YU.php" class="box">
-		<div class="countnum">244 просмотра</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/418022f881d4f468df077745d4e0f90c.jpg" alt="Дтп 13.09.2014г." width="100%">
+		<div class="countnum">249 просмотров</div>
+		<img src="/images/418022f881d4f468df077745d4e0f90c.jpg" alt="Дтп 13.09.2014г." width="100%">
 		<h2>Дтп 13.09.2014г.</h2>
 	</a>
 	<a href="/57ouIpnzrJk.php" class="box">
-		<div class="countnum">242 просмотра</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/2136fcaf95dc6bf182ca416e516b25e6.jpg" alt="мультики про машинки - Раскраска и Мойка машини, развивающий мультик для детей" width="100%">
+		<div class="countnum">247 просмотров</div>
+		<img src="/images/2136fcaf95dc6bf182ca416e516b25e6.jpg" alt="мультики про машинки - Раскраска и Мойка машини, развивающий мультик для детей" width="100%">
 		<h2>мультики про машинки - Раскраска и Мойка машини, развивающий мультик для детей</h2>
-	</a>
-	<a href="/A9rgsibGDUs.php" class="box">
-		<div class="countnum">240 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/b307eaa2096f622dd2bcb175f4848be1.jpg" alt="Школьник учит играть на Луне (Luna)#38" width="100%">
-		<h2>Школьник учит играть на Луне (Luna)#38</h2>
-	</a>
-	<a href="/HB_NbDQJl0Y.php" class="box">
-		<div class="countnum">240 просмотров</div>
-		<img src="/templates/images/nopgoto.png" data-src="/images/f3d516a394b096d79dd58f58c94daad1.jpg" alt="НЕЗНАЙКА ИНТЕРСТЕЛЛАР" width="100%">
-		<h2>НЕЗНАЙКА ИНТЕРСТЕЛЛАР</h2>
 	</a>
 		<div class="right-box"></div>
     </div>

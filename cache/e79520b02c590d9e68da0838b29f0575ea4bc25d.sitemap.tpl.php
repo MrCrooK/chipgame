@@ -1,5 +1,5 @@
 <?php
-/*%%SmartyHeaderCode:10258369805571814243efd3_11539471%%*/
+/*%%SmartyHeaderCode:506519252558cde0ec16631_92014012%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -13,7 +13,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '3886f3f090f29dcb8617db0c28842ce9b73e2a99' => 
     array (
       0 => './templates/header.tpl',
-      1 => 1433231115,
+      1 => 1435230001,
       2 => 'file',
     ),
     '33182f7e40d06ae680f04a70e6bb3f19d5a196cb' => 
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '10258369805571814243efd3_11539471',
+  'nocache_hash' => '506519252558cde0ec16631_92014012',
   'tpl_function' => 
   array (
   ),
@@ -34,12 +34,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_5571814249c244_27239198',
+  'unifunc' => 'content_558cde0ec6e0d9_00092707',
   'cache_lifetime' => 120,
 ),true);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_5571814249c244_27239198')) {
-function content_5571814249c244_27239198 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558cde0ec6e0d9_00092707')) {
+function content_558cde0ec6e0d9_00092707 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
@@ -67,8 +67,197 @@ function content_5571814249c244_27239198 ($_smarty_tpl) {
     <div class="hede-menu"></div>
     <div class="hede-menu"></div>
     <div id="no-size-content">
+	<div style="margin: 0 auto">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- ChipGameRU -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-3579954790140386"
+		 data-ad-slot="6773261157"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	</div>
 	<h1>Карта сайта</h1>
 	<div class="content">
+				<a href="/MEQLzxJBGgE.php">Правила журналистики. Радио Свобода</a><br>
+				<a href="/FmAF-z4UEzQ.php">Нацистский гимн в Госдуме</a><br>
+				<a href="/f93emg3PARs.php">День когда черные люди остановились./The day when black people stopped.</a><br>
+				<a href="/wwXvQt5fQ_4.php">Уфимский асфальт</a><br>
+				<a href="/MyMKbluMBso.php">Тащим паблик с Azazin Kreet # 1 [Алхимик]</a><br>
+				<a href="/zQ_B-feBJ_o.php">О поддержке армянских протестующих</a><br>
+				<a href="/nORtucXA18s.php">45269977803</a><br>
+				<a href="/mv3tJXpDlEM.php">Back Off!!</a><br>
+				<a href="/zLGawTxckec.php">ТОП5 самых ЖЕЛАННЫХ ЖЕНЩИН часть 3</a><br>
+				<a href="/N1LddaoSdyA.php">МУЛЬТ-ИВАНГАЙ | Анимация</a><br>
+				<a href="/nIHOtCJyln0.php">Кювет VS обочечник</a><br>
+				<a href="/7XW5wpcZY_8.php">Чудовище атаковало меня на пл. Куйбышева - Monster attacked me on Kuybishev square</a><br>
+				<a href="/_i9SPJLxRr4.php">Исповедь русского солдата-убийцы</a><br>
+				<a href="/wyNYx26jKfk.php">Захарченко назначил Януковича...</a><br>
+				<a href="/TcbCbeLBvrE.php">Тест-драйв от Давидыча Jaguar F-Type</a><br>
+				<a href="/RpwgXGhDXLE.php">Showed real magic / Показал настоящую магию</a><br>
+				<a href="/D4i6SsF7ojk.php">Крым. Подсластить пилюлю.</a><br>
+				<a href="/arTlGiAeDxE.php">This is Хорошо - Человечество против шлагбаума. (П_П)</a><br>
+				<a href="/kI7KxxmrjXg.php">Степан Попов. Самбо. ~ Благородный поступок в финале ~ Европейские игры</a><br>
+				<a href="/AhLj1Li2qzo.php">The look on your face is priceless when you first see the cat</a><br>
+				<a href="/iupD-R5jRXE.php">Украинского ребенка учат резать Русских. ЖЕСТЬ</a><br>
+				<a href="/4XZHy73JOGc.php">Благодарность моим друзьям</a><br>
+				<a href="/xnTngrKqRKI.php">Oxu.Az - Azərbaycanlı könüllü idmançını belə xilas etdi</a><br>
+				<a href="/xu4IUk9toOY.php">Это и есть демократия</a><br>
+				<a href="/HXt0NDzZvdU.php">10 Миллионеров-звезд, которые ОБАНКРОТИЛИСЬ</a><br>
+				<a href="/J_8mdH20qTQ.php">Remove cat before flight</a><br>
+				<a href="/igT4Gij8QGQ.php">ШЕПОТ ЮТУБЕРА ЧЕЛЛЕНЖ | EeOneGuy и Maryana Ro</a><br>
+				<a href="/xUGXc26kbA4.php">Always Ultra лучше удерживают жидкость!</a><br>
+				<a href="/vFsK_9S7dv8.php">Дети пришли к Порошенко за конфетами</a><br>
+				<a href="/Wkbsoxzfssk.php">Артём Гришанов - Враг у ворот / Enemy at the gates / War in Ukraine (English subtitles)</a><br>
+				<a href="/5eyaBocAlPg.php">Расстрел на день рождения в Горловке</a><br>
+				<a href="/Zzk1MPa0wlI.php">Взрыв Сбербанка России в Киеве 22.06.2015 (Explosion of Sberbank Russia in Kiev Ukraine)</a><br>
+				<a href="/lFAsFT3p6Ig.php">Как голос поможет быть на коне?</a><br>
+				<a href="/FQHByQRHl1o.php">Сообразительный автомойщик</a><br>
+				<a href="/8J-PZ0u58Fc.php">Этот Ниндзя сделал мой день!:)</a><br>
+				<a href="/jPQvb0OOnWE.php">ТОП5 Популярных в детстве, но пропавших после людей</a><br>
+				<a href="/aUYALTNh3aU.php">КАК НЕ НАДО КАКАТЬ // ARK</a><br>
+				<a href="/EPxfIhwOL58.php">GTA: ПИРАТСКИЙ ПЕРЕДОЗ #3</a><br>
+				<a href="/082ufQRBj1M.php">When you think that no one is looking / Когда ты думаешь, что никто не видит</a><br>
+				<a href="/icafQSP9rQU.php">MW ♡ ДЕНЬ СО МНОЙ - СОБИРАЮ КОРОБОЧКУ ♡ Маша Вэй | Maria Way</a><br>
+				<a href="/MXCHjJ5Mh6w.php">SHAME OF THRONES</a><br>
+				<a href="/KUOhpQDDME4.php">BSR SUPER SLIDE - The Royal Flush in 4K</a><br>
+				<a href="/uKGE8hP7XgU.php">Beautiful girl / Как познакомиться с девушкой, когда немного очкуешь)</a><br>
+				<a href="/qBx7F8ucMCE.php">Геймплей новой Need For Speed</a><br>
+				<a href="/28r1cms6Z_g.php">Эксклюзив! Похороны Жанны Фриске</a><br>
+				<a href="/9xb-mQtsArU.php">Украинские &quot;СМИ&quot; опять пробили дно</a><br>
+				<a href="/qVHmkgLC9cA.php">Как голос поможет быть готовым к заплыву?</a><br>
+				<a href="/w81g199L8YA.php">Arnold Pranks Fans as the Terminator...for Charity</a><br>
+				<a href="/PkCYe_-gVGY.php">RAV4 в смятку</a><br>
+				<a href="/wgdbZhnFD5g.php">ISS Symphony - Timelapse of Earth from International Space Station | 4K</a><br>
+				<a href="/psDt5sEXyIs.php">Упоротой кучке, желающей &quot;правильных&quot; интервью</a><br>
+				<a href="/NvDu24eQj-k.php">В Москве прощаются с Жанной Фриске / Farewell to Jeanne Friske</a><br>
+				<a href="/48RZ0CgvUsU.php">Foggy Disaster</a><br>
+				<a href="/M1hWB129PjU.php">ТОП5 Первых в жизни ВИДЕОИГР</a><br>
+				<a href="/VOoNASXEHpY.php">Игорь Шойгу невиновен</a><br>
+				<a href="/awEEUh8F5gk.php">MDK VS Паша Микус</a><br>
+				<a href="/_a9z7VfXptc.php">Прощание с Жанной Фриске ВИДЕО. Крокус сити холл</a><br>
+				<a href="/e0qv6VixZpI.php">Головоломка - трейлер</a><br>
+				<a href="/2Su1lrBUuhk.php">Звезды и простые москвичи пришили проститься с Жанной Фриске</a><br>
+				<a href="/7ekq8U01WlU.php">ГОЛЫЙ МУЖИК В ПИСЬМЕ | ОТВЕТЫ НА ВОПРОСЫ</a><br>
+				<a href="/wVpewE8Ddmg.php">СтопХамСПб - Сын депутата</a><br>
+				<a href="/tw1PnmoCGS8.php">ТАТУ VS ПИРСИНГ</a><br>
+				<a href="/Chqr0UETglw.php">Эпичный полёт Porsche Cayman S | Porsche goes airborne on russian highway</a><br>
+				<a href="/cIYUX9_RtxQ.php">Победа Семенченко и флаг над Горловкой</a><br>
+				<a href="/RaDV1HIgA4g.php">★Умерла певица Жанна Фриске★</a><br>
+				<a href="/KxP-1XyqeH8.php">Видеообращение инспектора ДПС</a><br>
+				<a href="/XnQx8Y50SdM.php">CENTR - Нюни 2</a><br>
+				<a href="/jCudg3I76Oc.php">&quot;Я дружил с Путиным&quot;</a><br>
+				<a href="/f3knBt21Bk4.php">Человеку пришла в голову плохая идея потереться членом о гнездо красных муравьёв.</a><br>
+				<a href="/SSv3HyXPb8E.php">This is Хорошо - Алёна. ↁ_ↁ</a><br>
+				<a href="/LV8EB4E__BI.php">Террорист Доберман</a><br>
+				<a href="/mu_XEBJu4j8.php">Dota 2 WTF Moments 122</a><br>
+				<a href="/lBJ3X5nbA3A.php">Как сделать правильное видео из неправильного</a><br>
+				<a href="/IBpQUO1pWqI.php">Факты с А.Шарием</a><br>
+				<a href="/RiFZ91F8xrw.php">Только для подпиcчиков YouTube</a><br>
+				<a href="/F-fMRAWNZ4w.php">Assassin’s Creed Синдикат - Кинематографический трейлер E3 [RU]</a><br>
+				<a href="/TMCG4Iw_s-I.php">Россия - Австрия 0:1 - Интервью с Фабио Капелло после матча</a><br>
+				<a href="/OzV1GlDDlv8.php">Fallout 4 Gameplay Trailer (E3 2015) (Fallout 4 Trailer)</a><br>
+				<a href="/xVaWl1GtDHU.php">DOOM Gameplay (DOOM 4) (E3 2015)</a><br>
+				<a href="/avOo0QkLA7c.php">ДТП Курган Пролетарская-Мяготина 14.06.2015 5:30</a><br>
+				<a href="/zE5Lg--iJYk.php">ЭТО ПРОСТО ЭПИК!!! НОЖ-БАБОЧКА | Кровавая паутина</a><br>
+				<a href="/aruVhcTZaoo.php">Тут нет никого, так какого ж вы... ?</a><br>
+				<a href="/13Bp37H0_3k.php">Как породнились враги</a><br>
+				<a href="/wktTE51NHrY.php">Как голос поможет быстрее добраться до бара?</a><br>
+				<a href="/DPmSJHtxCus.php">ТОП5 ФАСТФУД Ресторанов</a><br>
+				<a href="/1poQ2ZJZkRM.php">лес</a><br>
+				<a href="/ChxPKwuRNrY.php">Ограбление Крыма и маршрутка с пиарщиками</a><br>
+				<a href="/LTjUb3w8Q0o.php">Ядерный удар по США / Petition to Nuke America experiment</a><br>
+				<a href="/FMfnrG5AU-o.php">Машкины Страшилки - Мрачная притча о суеверной девочке (6 серия)</a><br>
+				<a href="/ANewUfT15z0.php">Широкино: прямое попадание в дом [ЖЕСТЬ]</a><br>
+				<a href="/Cqw9XeYKcGg.php">Бухой Кисель</a><br>
+				<a href="/pabAy0xBNmM.php">Я только лучше – Шопинг терапия</a><br>
+				<a href="/gvBWv53QQyM.php">Блондинка и лама</a><br>
+				<a href="/obEhmGLsH8w.php">Лучшая мобильная игра 2015</a><br>
+				<a href="/GPg5ItHZDGQ.php">Вопрос по личной ситуации</a><br>
+				<a href="/DTfPnv7OXCE.php">Lp. ТЕ САМЫЕ ПОХОЖДЕНИЯ #58 - КОНЕЦ ИСКАЖЕНИЮ!</a><br>
+				<a href="/s2I5HTQGnVk.php">Сельские забавы</a><br>
+				<a href="/Txd4eQ14wxs.php">Плюсы и Минусы ANDROID</a><br>
+				<a href="/fxFImZzqIhw.php">Визг маленькой собачки</a><br>
+				<a href="/yP53T9q5fsY.php">Russian SU-27 jets in the California Sky</a><br>
+				<a href="/ezNmxXYDWbg.php">Выполненное обещание Президента</a><br>
+				<a href="/gyYp_7o0J0k.php">Как воспитать патриота Украины</a><br>
+				<a href="/VlM7xTsCWew.php">Тягнибок как всегда выползает вовремя...</a><br>
+				<a href="/XAI0-MWpX_A.php">Тест-драйв от Давидыча Porsche Macan Turbo</a><br>
+				<a href="/2jErb6-N2uQ.php">Ёлки палки, Алёна</a><br>
+				<a href="/dqPs1433aJU.php">Paul vs stump</a><br>
+				<a href="/VLVEDnduxTM.php">Миротворец Путин</a><br>
+				<a href="/zlvWkDE8PZw.php">КЛЭПСОВЕТ: Школа / ЕГЭ, Шпоры, Одноклассники!!! ツ</a><br>
+				<a href="/DKCJRs7tuqI.php">10 пугающих НАУЧНЫХ ТЕОРИЙ</a><br>
+				<a href="/6l3nlbF3YTg.php">+100500 — Водяной</a><br>
+				<a href="/pi431-ZbgTg.php">This is Хорошо - Лестничный тролль. (･ｪ-)</a><br>
+				<a href="/st0haYwoqrQ.php">ЕГЭ</a><br>
+				<a href="/mVBoGZPx60Q.php">Полицейские ранили мужчину при задержании около монастыря в Москве</a><br>
+				<a href="/jQs-3dqM4jg.php">Как фейкануть 5 раз за минуту</a><br>
+				<a href="/oifTIKLuUPs.php">ТОП5 СУБКУЛЬТУР</a><br>
+				<a href="/Wv5JXaaUI98.php">Реакция человека на лошадь в магазине</a><br>
+				<a href="/v9jowTDxH78.php">Новый уровень успеха. Эпизод 3. Финал</a><br>
+				<a href="/mBh55zvSO9Y.php">Победитель по жизни :D</a><br>
+				<a href="/tkgbHfbPk4E.php">Сбор подписей в США за ядерный удар по РФ</a><br>
+				<a href="/y9vto-eWPaY.php">Johanna channeling Aretha Franklin!</a><br>
+				<a href="/fRQ7KGRyX3s.php">Флаг России в Центре Киева</a><br>
+				<a href="/b0S_HzF1LRU.php">ДИСКОТЕКА ДОМА!!!</a><br>
+				<a href="/E4Kc8ttrJTE.php">Опять фейсбук</a><br>
+				<a href="/AKp5qXSR1WA.php">Донецк. Вокзал. Камера слежения.</a><br>
+				<a href="/yqtrog8M-bk.php">Планктону</a><br>
+				<a href="/nz4FXdxkIHU.php">КАК НАДО ИГРАТЬ В GTA 5 #2 (СЕРЖ, БИВИС, САХАР, ГАВЕР, ЛАЙКЕР, FIFTHSAW)</a><br>
+				<a href="/CWSrp1RC8Rc.php">Dota 2 WTF Moments 121</a><br>
+				<a href="/iCXvIazYBEc.php">Услышь каждого, легитимный</a><br>
+				<a href="/0doheCkMRtY.php">Самое главное видео</a><br>
+				<a href="/7-BtqV32G5E.php">Не коли себе спайс!</a><br>
+				<a href="/gCfZttowabI.php">☆* ВОЛШЕБНЫЙ ЛЁД *☆</a><br>
+				<a href="/CELavfEJcBQ.php">Никки Минаж VS Ким Кардашьян</a><br>
+				<a href="/RAC9jZK87WA.php">This is Хорошо - Изгнание бесов. }=^{|~</a><br>
+				<a href="/RbIPBPoyKHo.php">Русские в беде не бросают / Terre des Hommes / テッレ·デ·オム [vzames] #229</a><br>
+				<a href="/GEokzJiE0Fc.php">О самых счастливых рабах в мире</a><br>
+				<a href="/Jt6pR_s3ra4.php">Побег из Крыма</a><br>
+				<a href="/3b5XxPKVDcQ.php">&quot;Минет&quot; на публике пранк / Fake blowjob prank</a><br>
+				<a href="/hwqK0-NXvMA.php">Поговорим с дотерами #5 [Я и не пассив и не актив]</a><br>
+				<a href="/1cLOfn27ZRQ.php">Га-га-га, как смешно</a><br>
+				<a href="/EM6U1Tg5DaM.php">МОЙ СТАРЫЙ КАНАЛ?!</a><br>
+				<a href="/11VDu5f6K70.php">10 САМЫХ ЗАГАДОЧНЫХ ФОТОГРАФИЙ В ИСТОРИИ</a><br>
+				<a href="/0ZZquVylLEo.php">Real GTA</a><br>
+				<a href="/01o0eG9a2Iw.php">Я ДЕВСТВЕННИК? | ДЕТЕКТОР ЛЖИ</a><br>
+				<a href="/4_sLTe6-7SE.php">Falling Back to Earth | HD Footage From Space</a><br>
+				<a href="/59ig79J9fMI.php">Неудержимые десантники из гумконвоев</a><br>
+				<a href="/EkGvWTn8uqA.php">Вы помните флаг Гиви?</a><br>
+				<a href="/InKUW8MzQ_4.php">Сок &quot;Я&quot;. Новое искушение.</a><br>
+				<a href="/pNA_lUm2yv8.php">СКОЛЬЖЕНИЕ</a><br>
+				<a href="/t905ul_ezCU.php">Пленные под Марьинкой поют кричалку</a><br>
+				<a href="/_y5xFoK7wzw.php">ТОП5 ПРАВИТЕЛЕЙ С ОТКЛОНЕНИЯМИ</a><br>
+				<a href="/yC0Kwq2Tc1M.php">КТО КОГО ?</a><br>
+				<a href="/pYHj-OLV4R0.php">фраерочки</a><br>
+				<a href="/6KiaEq8PXdA.php">Первый день на работе ДПС</a><br>
+				<a href="/Qsst9gb4psE.php">Свинка Пеппа на Русском Все Серии Подряд на Всь Экран 1</a><br>
+				<a href="/8g-FN2nltvo.php">Расстрелянный рынок. Донецк.</a><br>
+				<a href="/-rGO7RAd2sQ.php">Clash of Kings: Кто будет править во времена хаоса и смуты?</a><br>
+				<a href="/y7FRwgjeEYY.php">Неудобно как-то получилось...</a><br>
+				<a href="/Ze1T1mDT2D4.php">Крым. Блокада. Джемилев. JL</a><br>
+				<a href="/hjqWPTXgZ6M.php">Плюсы и Минусы ПЛАСТИЧЕСКИХ ОПЕРАЦИЙ</a><br>
+				<a href="/KGc9wb2gBRw.php">Вброс украинских СМИ об указе Захарченко</a><br>
+				<a href="/GcM6tw_pcQc.php">Мое мнение по параду в Киеве</a><br>
+				<a href="/72xWBu-h020.php">Плащ-невидимка и карты Таро</a><br>
+				<a href="/aU1WERT3C98.php">10 БРАННЫХ СЛОВ и их происхождение</a><br>
+				<a href="/nb-6BYpe-c4.php">Одновременный оргазм: миф или реальность?</a><br>
+				<a href="/K8Fb4ute_14.php">Пойдём побазарим двое наехали на старика у магазина</a><br>
+				<a href="/K6v_R1vJvws.php">Дешевые понты - довиебив*лись!</a><br>
+				<a href="/Wz9jx_sPvQY.php">+100500 - Серьезный Кот</a><br>
+				<a href="/gXxvS7_2JSA.php">This is Хорошо - Уроки английского. 20$=20$</a><br>
+				<a href="/XMjuYpVf1W8.php">Безопасность - это глагол</a><br>
+				<a href="/1u411LvhSs0.php">ГЛУПЫЕ ВОПРОСЫ АКИНАТОРА!!!</a><br>
+				<a href="/g1xPM9Ixz5g.php">MW ♫ ВЫЗОВ ПРИНЯТ: ЧТО У МЕНЯ ВО РТУ ♫ MARIA WAY ♫ Маша Вэй</a><br>
+				<a href="/J9hBXvOoS5s.php">Time Lapse: Pregnant to Baby in 90 seconds. Photo a day.</a><br>
+				<a href="/BBr2B9jVt6Q.php">Россияне и гречка</a><br>
+				<a href="/-WEuvsurfzc.php">Вечер с Владимиром Соловьевым от 04.06.15</a><br>
+				<a href="/LrazoO543tA.php">Порошенко - лучший оратор всех времен</a><br>
+				<a href="/xippxkvxW0I.php">Посольство США. Киев. 3 июня.</a><br>
+				<a href="/_-f-emIoIEI.php">БРЕМЕНСКИЕ МУЗЫКАНТЫ: ДОРОГА ЯРОСТИ</a><br>
+				<a href="/UyBqD1re17A.php">Тест-драйв от Давидыч Mercedes SLS 63AMG Cabriolet</a><br>
 				<a href="/dtHe5VShVC4.php">LiveLeak - Authorities dispatch escavator to clear illegal parking</a><br>
 				<a href="/Lnn2rJpjar4.php">Fallout 4 - Official Trailer (PEGI)</a><br>
 				<a href="/vNyTVOo7nTo.php">Недостающие кусочки видео</a><br>

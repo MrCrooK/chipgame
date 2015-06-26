@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.24, created on 2015-06-05 14:00:18
+<?php /* Smarty version 3.1.24, created on 2015-06-26 10:07:26
          compiled from "./templates/sitemap.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:10258369805571814243efd3_11539471%%*/
+/*%%SmartyHeaderCode:506519252558cde0ec16631_92014012%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -13,7 +13,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '10258369805571814243efd3_11539471',
+  'nocache_hash' => '506519252558cde0ec16631_92014012',
   'variables' => 
   array (
     'items' => 0,
@@ -21,13 +21,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.24',
-  'unifunc' => 'content_5571814245c1e7_17501418',
+  'unifunc' => 'content_558cde0ec2fa85_58689440',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_5571814245c1e7_17501418')) {
-function content_5571814245c1e7_17501418 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_558cde0ec2fa85_58689440')) {
+function content_558cde0ec2fa85_58689440 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '10258369805571814243efd3_11539471';
+$_smarty_tpl->properties['nocache_hash'] = '506519252558cde0ec16631_92014012';
 echo $_smarty_tpl->getSubTemplate ("header.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, $_smarty_tpl->cache_lifetime, array('title'=>"Карта сайта | ChipGame",'description'=>'','keywords'=>''), 0);
 ?>
 
